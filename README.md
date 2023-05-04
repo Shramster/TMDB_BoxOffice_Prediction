@@ -1,4 +1,4 @@
-# TMDB_BoxOffice_Prediction
+# TMDB BoxOffice Prediction
 Predicting Box Office revenue of a TMDB dataset
 
 This git is a fully function copy of our CS 4462 project where we predicted
